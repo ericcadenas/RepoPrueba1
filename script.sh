@@ -6,6 +6,11 @@ echo "V.1"
 
 echo "V.2" 
 
+echo "V.4"
+
+echo "V.6"
+
 echo "V.3"
 
 echo "V.5"
+
